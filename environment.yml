@@ -3,8 +3,8 @@ channels:
   - pytorch
   - conda-forge
 dependencies:
-  - python=3.7
-  - numpy
+  - python=3.8
+  - numpy=1.21.6
   - pytorch
   - torchvision
   - torchaudio
