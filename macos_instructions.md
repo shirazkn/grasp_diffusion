@@ -1,4 +1,4 @@
-Here's how to get the environment running on MacOS Sonoma:
+Here's how to get the environment running on MacOS Sonoma. You may skip these instructions and `source macos_setup.sh` at your own risk!
 
 ### Set up the environment
 - `conda env create -f environment.yml && conda activate se3dif_env`
